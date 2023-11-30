@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eg-innovatesolutions&label=Profile%20views&color=0e75b6&style=flat" alt="eg-innovatesolutions" /> </p>
 
-- 👨‍💻 All of my projects are available at [eg.brandberu.tech](eg.brandberu.tech)
+- 👨‍💻 All of our projects are available [here](eg.brandberu.tech)
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with us:</h3>
 <p align="left">
 </p>
 
