@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, We are EG Innovate Solutions</h1>
 <h3 align="center">If you can imagine it, we can program it.</h3>
 
-<img src="https://avatars.githubusercontent.com/u/152241454?s=200&v=4" align="center" />
+<p align="center"> <img src="https://avatars.githubusercontent.com/u/152241454?s=200&v=4" align="center" /> </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eg-innovatesolutions&label=Profile%20views&color=0e75b6&style=flat" alt="eg-innovatesolutions" /> </p>
 
