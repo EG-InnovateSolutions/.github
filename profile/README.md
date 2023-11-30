@@ -3,7 +3,7 @@
 
 <p align="center"> <img src="https://avatars.githubusercontent.com/u/152241454?s=200&v=4" align="center" /> </p>
 
-<p align="left"> <img style="border-radius: 50%" src="https://komarev.com/ghpvc/?username=eg-innovatesolutions&label=Profile%20views&color=0e75b6&style=flat" alt="eg-innovatesolutions" /> </p>
+<p align="left"> <img style="border-radius: 150px;" src="https://komarev.com/ghpvc/?username=eg-innovatesolutions&label=Profile%20views&color=0e75b6&style=flat" alt="eg-innovatesolutions" /> </p>
 
 - 👨‍💻 All of our projects are available [here](eg.brandberu.tech)
 
