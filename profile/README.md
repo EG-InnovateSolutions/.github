@@ -19,9 +19,20 @@ If you can imagine it we can program it
 
 ## Tech Stack
 
-**Client:** React, Next, TailwindCSS, SaSS, JavaScript (**Elias**)
+🖌️ 🎨 **Client:** 
+- React
+- Next
+- TailwindCSS
+- SaSS
+- JavaScript
 
-**Server:** Node, Express, Passport, TypeScript, Java, Spring (**Giovanny**)
+💻 🔒 **Server:** 
+- Node
+- Express
+- Passport
+- TypeScript
+- Java
+- Spring 
 
 
 ## Authors
